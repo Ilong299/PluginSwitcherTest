@@ -1,0 +1,10 @@
+name: PluginSwitcher
+version: '${project.version}'
+main: me.ilongeniy.pluginswitcher.PluginSwitcher
+api-version: '1.21'
+authors: [Ilongeniy]
+
+commands:
+  ep:
+    aliases: [dp]
+    permission: ilongeniy.epdp
