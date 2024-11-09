@@ -7,6 +7,8 @@ import org.bukkit.command.TabCompleter;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 
+import me.ilongeniy.pluginswitcher.SwtichCommand;
+
 import java.util.ArrayList;
 import java.util.List;
 
