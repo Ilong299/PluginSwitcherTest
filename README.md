@@ -4,4 +4,4 @@ A simple plugin that allows you to enable or disable other plugins.
 /ep - enable plugin [pluginName]
 /dp - disable plugin [pluginName]
 
-#####All of it.
+##### All of it.
